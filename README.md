@@ -8,5 +8,4 @@ Who am I?
   -  SQL Server
   -  Data Engineering
 <br />
-**Languages**
-![alt text]([https://www.pinterest.com/pin/459648705704077871/])
+
