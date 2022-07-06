@@ -1,4 +1,4 @@
-###<h1 align="center">**Hello! My name is Mario 😄**</h1>  
+<h1 align="center">**Hello! My name is Mario 😄**</h1>  
 --------------------------------------------------------------------------------------------------
 Markup:
 - Who am I?
