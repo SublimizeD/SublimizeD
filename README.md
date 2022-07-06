@@ -7,4 +7,5 @@ Who am I?
   -  Machine Learning, Deep Learning
   -  SQL Server
   -  Data Engineering
-
+<br />
+**Languages**
